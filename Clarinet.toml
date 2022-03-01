@@ -1,0 +1,11 @@
+[project]
+name = "bns"
+authors = []
+description = ""
+telemetry = false
+requirements = []
+analysis = ["check_checker"]
+costs_version = 2
+[contracts.bns]
+path = "contracts/bns.clar"
+depends_on = []
